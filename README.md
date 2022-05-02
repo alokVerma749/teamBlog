@@ -42,6 +42,8 @@ client/
 # Usage (run fullstack app on your machine)
 
 ## Prerequisites
-- [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
+- [MongoDB](https://mongodb.com)
 - [Node](https://nodejs.org/en/download/) 
 - [npm](https://nodejs.org/en/download/package-manager/)
+- [Ejs](https://ejs.co/)
+- [Express](https://expressjs.com)
